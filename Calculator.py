@@ -92,3 +92,7 @@ Button_division = Button(text="÷",padx="30",font="arial",pady="30",borderwidth=
 
 mainloop()
 
+
+#سازنده
+#  id = Ghasem_slp
+#  github = ghasemslp
